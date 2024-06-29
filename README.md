@@ -1,5 +1,6 @@
 # heath_equation
-Resolução da equação do calor utilizando o método das diferenças finitas.
+# Resolução da equação do calor utilizando o método das diferenças finitas.
+
 Quando cursei a disciplina de Transferência de Calor, havia uma proposta para resolvermos as equações de calor analiticamente para problemas simples. No entanto, também aprendemos métodos numéricos para resolver algumas equações diferenciais parciais neste contexto. É interessante ver como poderíamos resolvê-las numericamente e visualizar as soluções como se fossem um "mapa", e para isto o Python pode ser utilizado para resolver este tipo de problema.
 Antes disso, é necessário termos uma base sobre a equação de calor e o método das diferenças finitas que será utilizado para este artigo. A equação de calor é uma EDP, logo
 ![image](https://github.com/maiarasalmaso/heath_equation/assets/91421583/46f03fb1-44f2-44ea-861d-b161cf435683)
